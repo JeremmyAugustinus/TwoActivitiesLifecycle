@@ -1,4 +1,4 @@
-package com.example.oracle.twoactivities;
+package com.example.oracle.twoactivitieslifecycle;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
